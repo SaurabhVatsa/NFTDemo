@@ -2,27 +2,27 @@
     "tokens": [
         {
             "id": 0,
-            "description": "Newton",
+            "description": "Newton: I like apples. I don't like Leibniz.",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Newton NFT 0"
+            "name": "Newton"
         },
         {
             "id": 1,
-            "description": "Leibnitz",
+            "description": "Leibniz: I shot first",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Newton NFT 1"
+            "name": "Leibniz"
         },
         {
             "id": 2,
-            "description": "Pascal",
+            "description": "Pascal: I am equal to Newton over a small area",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Newton NFT 2"
+            "name": "Pascal"
         },
       {
             "id": 3,
-            "description": "Tesla",
+            "description": "Tesla: I am cool and I don't care. Also - a pigeon",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Newton NFT 3"
+            "name": "Tesla"
         }
     ]
 }
